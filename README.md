@@ -1,5 +1,8 @@
 ## Bem-vindo(a) ao perfil da Tharcher 🏹
 
+Vivendo perigosamento pelo mundo da programação e segurança da informação!
+![image](https://github.com/tharcher/tharcher/assets/13759504/83b657a7-8054-4fd0-af4a-ba06d436d8f7)
+
  <div>
    <a href="https://github.com/tharcher">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharcher&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
